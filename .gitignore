@@ -1,0 +1,30 @@
+# --- Jupyter / Python -------------------------------------------------------
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# --- OS / editors -------------------------------------------------------------
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
+
+# --- Figures not used in the workshop notebook (kept locally, not published) --
+images/temp/
+images/EQW.png
+images/Flattened_Image.png
+images/kernel.png
+images/ML_AI.png
+images/traditional_vs_ML.png
+images/SVM_1.png
+images/SVM_2.png
+images/svm_3d.png
+images/svm_many_classes.png
+images/SVM_margin.png
+images/SVM_separable.png
+images/svm-parameter-c-example.png
