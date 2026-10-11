@@ -28,3 +28,8 @@ images/svm_many_classes.png
 images/SVM_margin.png
 images/SVM_separable.png
 images/svm-parameter-c-example.png
+
+# --- Notebooks kept locally, not published ------------------------------------
+01-ML_Intro_and_Clustering_answerkey.ipynb
+02-Clustering_Challenge_BPT.ipynb
+Intro_to_ML_and_Clustering_old.ipynb
