@@ -2,7 +2,7 @@
 
 Hands-on workshop by the [AstroStat Academy](https://www.astrostat.academy/) at **PyCon Greece 2026** (Athens, 12 October 2026).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AstroStat-Academy/conf-pycon-2026/blob/main/Introduction_to_ML_and_Clustering_Workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AstroStat-Academy/conf-pycon_greece_2026/blob/main/Introduction_to_ML_and_Clustering_Workshop.ipynb)
 
 How do you find structure in data when you don't know what you are looking for? This beginner-friendly workshop introduces unsupervised machine learning with Python and scikit-learn: how **K-means** and **DBSCAN** work, how to evaluate clustering results critically with multiple metrics, and how to apply and interpret clustering on real astrophysical data — stellar spectra and the BPT diagram of galaxies.
 
